@@ -1,0 +1,2 @@
+[12/1/2024 6:45:42 PM] Player #GG8P ended battle! Battle Result: win in 63868661142.27693s gamemode: CoinRush!
+[12/1/2024 6:54:10 PM] Player #GG8P ended battle! Battle Result: win in 63868661650.68649s gamemode: CoinRush!

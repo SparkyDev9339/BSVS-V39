@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0kaSH2V818k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sprkdv\\Desktop\\Supercell.Laser.v39.99\\Supercell.Laser.Titan\\Supercell.Laser.Titan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sprkdv\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\sprkdv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\sprkdv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}
